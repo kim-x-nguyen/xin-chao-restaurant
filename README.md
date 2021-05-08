@@ -10,7 +10,7 @@
 ## Table of contents
 
 - [Getting started](#getting-started)
-- [What's included](#whats-included)
+- [Screen shots](#screen-shots)
 - [Creators](#creators)
 
 ## Getting started
