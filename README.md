@@ -1,8 +1,6 @@
 <div align="center">
   <h1 align="center">
     A website of Xin Chao Restaurant
-    <br>
-    Xin Chao Restaurant
   </h1>
 </div>
 
