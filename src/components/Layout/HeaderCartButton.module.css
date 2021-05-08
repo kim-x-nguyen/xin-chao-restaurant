@@ -45,17 +45,32 @@
   @keyframes bump {
     0% {
       transform: scale(1);
+      background-color: #C4764A;
+      opacity: 70%;
+      color: black;
     }
     10% {
       transform: scale(0.9);
+      background-color: #CFDDE6;
+      opacity: 70%;
+      color: black;
     }
     30% {
       transform: scale(1.1);
+      background-color: #CFDDE6;
+      opacity: 70%;
+      color: black;
     }
     50% {
       transform: scale(1.15);
+      background-color: #CFDDE6;
+      opacity: 70%;
+      color: black;
     }
     100% {
       transform: scale(1);
+      background-color: #CFDDE6;
+      opacity: 70%;
+      color: black;
     }
   }
