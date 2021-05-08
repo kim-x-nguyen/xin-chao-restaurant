@@ -1,10 +1,10 @@
-<p align="center">
-  <p align="center">
-    # A website of Xin Chao Restaurant
+<div align="center">
+  <h1 align="center">
+    A website of Xin Chao Restaurant
     <br>
-    ## Xin Chao Restaurant
-  </p>
-</p>
+    Xin Chao Restaurant
+  </h1>
+</div>
 
 
 ## Table of contents
