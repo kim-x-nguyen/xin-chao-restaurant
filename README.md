@@ -21,7 +21,7 @@ npm install
 
 This is just an example application.
 
-Start build the application by using command:
+Start building the application by using command:
 
 ```
 npm start
