@@ -30,14 +30,9 @@ npm start
 ## Screen Shots
 
 <p align="center">
-  <img src="xin-chao-1.PNG" width="600" title="Header and Introduction">
+  <img src="xin-chao.gif" width="600" title="Xin Chao Restaurant's Website">
 </p>
-<p align="center">
-  <img src="xin-chao-2.PNG" width="600" title="Menu">
-</p>
-<p align="center">
-  <img src="xin-chao-3.PNG" width="600" title="Cart">
-</p>
+
 
 
 ## Creators
