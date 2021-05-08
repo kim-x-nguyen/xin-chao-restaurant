@@ -1,8 +1,8 @@
 <p align="center">
   <p align="center">
-    A website of Xin Chao Restaurant
+    # A website of Xin Chao Restaurant
     <br>
-    Xin Chao Restaurant
+    ## Xin Chao Restaurant
   </p>
 </p>
 
