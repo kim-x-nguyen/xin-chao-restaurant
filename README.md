@@ -30,7 +30,7 @@ npm start
 ## Screen Shots
 
 <p align="center">
-  <img src="xin-chao.gif" width="600" title="Xin Chao Restaurant's Website">
+  <img src="xin-chao.gif" width="700" height="800" title="Xin Chao Restaurant's Website">
 </p>
 
 
