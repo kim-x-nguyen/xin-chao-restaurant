@@ -21,7 +21,7 @@ npm install
 
 This is just an example application.
 
-Start build the application by using command:
+Start building the application by using command:
 
 ```
 npm start
@@ -30,14 +30,9 @@ npm start
 ## Screen Shots
 
 <p align="center">
-  <img src="xin-chao-1.PNG" width="600" title="Header and Introduction">
+  <img src="xin-chao.gif" width=auto height=auto title="Xin Chao Restaurant's Website">
 </p>
-<p align="center">
-  <img src="xin-chao-2.PNG" width="600" title="Menu">
-</p>
-<p align="center">
-  <img src="xin-chao-3.PNG" width="600" title="Cart">
-</p>
+
 
 
 ## Creators
