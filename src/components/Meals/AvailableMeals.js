@@ -11,7 +11,7 @@ const AvailableMeals = () => {
 
     useEffect(() => {
         const fetchMeals = async () => {
-            const response = await fetch('https://meals-3178e-default-rtdb.firebaseio.com/meals.json');
+            const response = await fetch('INSERT GOOGLE FIREBASE REALTIME DATABASE LINK HERE');
 
             if(!response.ok) {
                 throw new Error('Something went wrong!');
