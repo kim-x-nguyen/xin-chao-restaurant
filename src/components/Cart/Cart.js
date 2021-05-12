@@ -30,7 +30,7 @@ const Cart = props => {
 
     const submitOrderHandler = async (userData) => {
         setIsSubmitting(true);
-        await fetch("https://meals-3178e-default-rtdb.firebaseio.com/orders.json", {
+        await fetch("GOOGLE FIREBASE REALTIME DATABASE HERE", {
             method: 'POST',
             body: JSON.stringify(
                 {
